@@ -6,11 +6,10 @@ Note: This project is just one phase of the whole environment created for the am
 <br><br>
 The larger environment involves the development of an Emergency Response System (ERS) aimed at optimizing emergency medical services (EMS) by facilitating efficient navigation and response during critical situations. ERS integrates real-time data and predictive analytics to minimize response times and maximize patient outcomes. ResQ serves as a component within the ERS ecosystem, focusing specifically on managing traffic police officer credentials to ensure smooth coordination and communication between emergency responders.
 <br><br><br>
-Installation<br>
-1. Extract the node_modules.rar folder to your project directory.<br>
-2. Ensure you have Node.js installed on your system.<br>
-3. Run npm install to install all dependencies.<br>
-4. Configure Firebase credentials in the project. You can follow the Firebase documentation for setup instructions.<br>
-5. Start the development server using npm start.<br><br>
+Installation<br><br>
+1. Ensure you have Node.js installed on your system.<br>
+2. Run npm install to install all dependencies.<br>
+3. Configure Firebase credentials in the project. You can follow the Firebase documentation for setup instructions.<br>
+4. Start the development server using npm start.<br><br>
 Usage<br>
 Once the project is set up and the development server is running, you can access the application in your web browser. Traffic police officers can log in using their credentials stored in Firebase, while police commissioners can access the dashboard to manage officer credentials.
