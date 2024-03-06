@@ -1,4 +1,4 @@
-#ResQ - Traffic Police Credential Management System <br><br>
+ResQ - Traffic Police Credential Management System <br><br>
 Description<br><br>
 ResQ is a web application built using React.js and Firebase, designed to streamline the management of traffic police officers' credentials. It allows police commissioners to securely insert email IDs and passwords of traffic police officers into the system. These credentials are stored in Firebase Firestore and can be fetched by the application for officer authentication purposes. The application also features a dashboard for police commissioners to view and manage traffic police officer credentials.
 <br><br>
