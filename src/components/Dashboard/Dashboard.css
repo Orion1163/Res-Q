@@ -1,0 +1,141 @@
+body{
+    background-color: '#333';
+}
+.container {
+    margin: auto;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+    background-color: '#333';
+    color: '#ffffff';
+  }
+  
+  .content {
+    margin-bottom: 20px;
+    margin-top: 150px; /* Adjust as needed */
+  }
+  
+  .form-container {
+    margin: auto;
+    max-width: 150px; /* Adjust the maximum width as needed */
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .input-box {
+    margin-bottom: 10px;
+    padding: 10px;
+    width: 50%;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-sizing: border-box;
+    margin-left: 250px;
+  }
+  
+  .input-box:focus {
+    outline: none;
+    border-color: #007bff; /* Highlight border color when focused */
+  }
+  .create-box{
+    margin-bottom: 10px;
+    margin-top: 5px;
+    margin-left: 500px;
+    padding: 10px 20px;
+    cursor: pointer;
+    border: none;
+    border-radius: 5px;
+    background-color: #007bff;
+    color: #fff;
+    transition: background-color 0.3s;
+    width: 150px;
+    text-align: center;
+  }
+  .show-box,
+  .delete-box,
+  .edit-box {
+    margin-right: 5px;
+    margin-top: 10px; /* Adjust margin as needed */
+    padding: 10px 20px;
+    cursor: pointer;
+    border: none;
+    border-radius: 5px;
+    background-color: #007bff;
+    color: #fff;
+    transition: background-color 0.3s;
+  }
+  .delete-box,
+  .edit-box {
+    margin-left: 20px;
+    width: 100px;
+  }
+  
+  .create-box:hover,
+  .update-box:hover,
+  .delete-box:hover,
+  .edit-box:hover {
+    background-color: #0056b3;
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  th,
+  td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: center;
+    background-color: '#333';
+    color: '#ffffff';
+  }
+  
+  th {
+    background-color: '#333';
+    color: '#ffffff';  }
+  
+  tr:nth-child(even) {
+    background-color: #f2f2f2;
+  }
+  
+  tr:hover {
+    background-color: #ddd;
+  }
+  
+  .verify_button{
+    width: 90px;
+    background-color: green;
+    color: #fff;
+  }
+
+  /* Add this to your Dashboard.css file */
+.modal {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: fixed;
+  z-index: 1;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5); /* Semi-transparent background */
+}
+
+.modal-content {
+  background-color: #fefefe;
+  padding: 20px;
+  border-radius: 8px;
+}
+
+.close {
+  color: #aaa;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.close:hover,
+.close:focus {
+  color: #333;
+}

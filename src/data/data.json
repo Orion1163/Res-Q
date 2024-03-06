@@ -1,0 +1,97 @@
+{
+  "Header": {
+    "title": "Welcome To ResQ",
+    "paragraph": "Minimize delays, maximize lives - our mission at ResQ."
+  },
+  "About": {
+    "paragraph": "Innovating at the intersection of technology and emergency response, our project is dedicated to revolutionizing the way ambulances navigate through urban traffic. By harnessing cutting-edge predictive analytics and real-time traffic data, we empower emergency services to minimize response times and ensure swift passage through congested city streets. With a focus on efficiency and safety, our mission is to optimize traffic light timings and streamline emergency routes, ultimately saving lives and enhancing community resilience.",
+    "Why": [
+      "Efficiency",
+      "Lifesaving Potential",
+      "Innovation",
+      "Tailored Solutions"
+    ],
+    "Why2": [
+      "Community Impact",
+      "Collaborative Approach",
+      "Proven Track Record",
+      "Future-Proofing"
+    ]
+  },
+  "Services": [
+    {
+      "icon": "fa fa-Road",
+      "name": "Real-Time Traffic Updates",
+      "text": "Provides live updates on traffic conditions, aiding in route planning and congestion avoidance for smoother travel experiences."
+    },
+    {
+      "icon": "fa fa-chart-line",
+      "name": "Predictive Traffic Analysis",
+      "text": "Forecasts traffic bottlenecks to proactively reroute vehicles, reducing delays and optimizing emergency response times."
+    },
+    {
+      "icon": "fa fa-ambulance",
+      "name": "Emergency Vehicle Priority",
+      "text": "Enables emergency vehicles to swiftly navigate traffic, ensuring timely arrival at critical destinations."
+    },
+    {
+      "icon": "fa fa-route",
+      "name": "Route Optimization",
+      "text": "Determines the most efficient paths for emergency vehicles, minimizing response times and enhancing overall operational effectiveness."
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "name": "Public Awareness Campaigns",
+      "text": "Educates communities on traffic regulations and the importance of yielding to emergency vehicles for safer roadways."
+    },
+    {
+      "icon": "fa fa-users",
+      "name": "Community Engagement",
+      "text": "Engages with local residents to gather feedback, fostering collaborative efforts for improved traffic management and emergency services."
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "Rohan Chaudhari",
+      "job": "CEO (Developer)"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Jayesh Shinde",
+      "job": "CFO (Developer)"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Pranav Deshpande",
+      "job": "CTO (Developer)"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Manasi Konde",
+      "job": "COO (Developer)"
+    }
+  ],
+  "Features": [
+    {
+      "icon": "fa fa-Road",
+      "title": "Route Optimization",
+      "text": "Determines the most efficient route for emergency vehicles based on real-time traffic data, road conditions, and other factors, ensuring timely arrival at the destination."
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Public Awareness Campaigns",
+      "text": "Raises awareness among the community about the importance of giving way to emergency vehicles and adhering to traffic rules during emergencies."
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Community Engagement",
+      "text": " Engages with local communities to gather feedback, improve response times, and enhance emergency vehicle navigation based on real-time user input."
+    },
+    {
+      "icon": "fa fa-cogs",
+      "title": "Continuous Improvement",
+      "text": "Continuously improves performance and responsiveness by analyzing feedback and data, adapting to evolving traffic conditions and emergency response requirements."
+    }
+  ]
+}
